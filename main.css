@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+p{
+  padding: 0;
+  margin: 0;
+}
+header {
+  background-color: rgb(64, 144, 73);
+  color: rgb(253, 245, 81);
+}
+.namesite {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 20pt;
+}
+ul {
+  list-style: none;
+  height: 50px;
+  margin: 0;
+  border-top: 1px solid rgb(253, 245, 81);
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+ul li {
+  float: left;
+  padding-left: 100px;
+}
+
+div {
+  border: solid 1px black;
+}
+
+.main {
+  width: 100%;
+}
+
+.text {
+ width:  100%; 
+}
+
+.right {
+  float:  right;
+}
+
+.left {
+  float: left;
+}
+
+.center {
+  margin: 0 auto;
+}
